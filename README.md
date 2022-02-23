@@ -253,11 +253,3 @@ journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives,
     alt="rootwork"
   />
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rootwork&show_icons=true&locale=en&layout=compact"
-    alt="rootwork"
-  />
-</p>
