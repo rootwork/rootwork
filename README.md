@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://raw.githubusercontent.com/rootwork/rootwork/main/images/Quasar-Pride-Progress.svg" height="18" width="auto" align="texttop" alt="Progress Pride flag by Daniel Quasar" /> Black Lives Matter ✊🏽 Trans Rights Are Human Rights ✊🏽 Houseless Neighbors Deserve Dignity</h2>
+<h3 align="center"><img src="https://raw.githubusercontent.com/rootwork/rootwork/main/images/Quasar-Pride-Progress.svg" height="18" width="auto" align="texttop" alt="Progress Pride flag by Daniel Quasar" /> Black Lives Matter ✊🏽 Trans Rights Are Human Rights ⛺ Houseless Neighbors Deserve Dignity</h2>
 
 ---
 
