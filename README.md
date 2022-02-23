@@ -204,39 +204,39 @@ journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives,
 ## Connect with me 📟
 
 <p align="left">
-  <a href="https://linkedin.com/in/ivanboothe" target="blank"
+  <a href="https://linkedin.com/in/ivanboothe"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
       alt="ivanboothe"
       height="40"
       width="40"
-  /></a>
-  <a href="https://twitter.com/rootwork" target="blank"
+  /></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/rootwork"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
       alt="rootwork"
       height="40"
       width="40"
-  /></a>
-  <a href="https://codepen.io/rootwork" target="blank"
+  /></a> &nbsp; &nbsp;
+  <a href="https://codepen.io/rootwork"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"
       alt="rootwork"
       height="40"
       width="40"
-  /></a>
-  <a href="https://facebook.com/rootwork" target="blank"
+  /></a> &nbsp; &nbsp;
+  <a href="https://facebook.com/rootwork"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
       alt="rootwork"
       height="40"
       width="40"
-  /></a>
-  <a href="/https://rootwork.org/index.xml" target="blank"
+  /></a> &nbsp; &nbsp;
+  <a href="https://rootwork.org/index.xml"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
