@@ -16,13 +16,15 @@
 - **[GET: Gulp, ES6, Tailwind](https://github.com/rootwork/GET)**, a kickstart template for modern TailwindCSS development.
 - **[Hugo Module Site](https://github.com/rootwork/hugo-module-site)**, an example of how to use Hugo Modules in your Hugo site.
 - **[rootwork/bash-scripts](https://github.com/rootwork/bash-scripts)**, helpful tools for image management, video manipulation, and image/video conversion.
-- **[Responsive Tables Builder](https://github.com/rootwork/responsive-tables-builder)** (in progress), a tool for creating mobile-first, accessible, responsive HTML data tables from data files, with CSS and without JS.
+- **[Responsive Tables Builder](https://github.com/rootwork/responsive-tables-builder)**, a tool for creating mobile-first, accessible, responsive HTML data tables from data files, with CSS and without JS.
 - **[Radical Icons](https://gitlab.com/radicons/radicons)**, reusable SVG and PNG images for activist art and organizing.
-- I've also been active in **Drupal** (especially nonprofit-tech Drupal) since 2005. [You can find me over at drupal.org](https://www.drupal.org/u/rootwork)
+- I've also been active in **Drupal** (especially nonprofit-tech Drupal) since 2005. **[Find me at drupal.org.](https://www.drupal.org/u/rootwork)**
 
 ## 💁 Ask me about
 
 - [Drupal (4.5 to 9)](https://www.drupal.org/)
+- [nptech](https://www.nten.org/) (nonprofit/NGO tech)
+- [accessibility](https://www.a11yproject.com/) (a11y) and [universal design](https://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) (also sometimes called inclusive design)
 - [MJML](https://mjml.io/)
 - [Handlebars](https://handlebarsjs.com/)
 - [Sass](https://sass-lang.com/) and modern CSS
@@ -36,9 +38,9 @@ Also intermediately experienced with bash scripting (and [zsh](https://www.zsh.o
 
 Go (having somewhat learned Go templating via Hugo), back-end Nodejs, Drupal 10.
 
-## 🔔 Also, I'm a semi professional handbell musician.
+## 💭 Coding is just a small part of who I am
 
-[Really.](https://www.bellsofthecascades.org/about)
+Technology is a means to an end, and shiny tech is not always the best means. In the past I've worked as a human rights advocate, a community organizer, and a journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives, and 🔔 semi-professional handbell performance. ([Really.](https://www.bellsofthecascades.org/about))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
