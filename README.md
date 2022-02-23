@@ -75,30 +75,22 @@
 
 Also intermediately experienced with bash scripting (and
 [zsh](https://www.zsh.org/)), [Tailwinds CSS](https://tailwindcss.com/), SVGs
-and animation, [CiviCRM](https://civicrm.org/), and using Linux in day-to-day
+and animation, [Composer](https://getcomposer.org/), [CiviCRM](https://civicrm.org/), and using Linux in day-to-day
 work and development.
 
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" rel="noreferrer">
+  <a href="https://www.drupal.org/" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain-wordmark.svg"
+      alt="Drupal"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" rel="noreferrer">
+  <a href="https://nodejs.org" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
@@ -111,7 +103,15 @@ work and development.
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" rel="noreferrer">
+  <a href="https://sass-lang.com" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -119,10 +119,10 @@ work and development.
       height="40"
     />
   </a>
-  <a href="https://gohugo.io/" rel="noreferrer">
+  <a href="https://www.w3.org/Style/CSS/" rel="noreferrer">
     <img
-      src="https://api.iconify.design/logos-hugo.svg"
-      alt="hugo"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
       width="40"
       height="40"
     />
@@ -138,50 +138,50 @@ work and development.
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" rel="noreferrer">
+  <a href="https://gohugo.io/" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
+      src="https://api.iconify.design/logos-hugo.svg"
+      alt="hugo"
       width="40"
       height="40"
     />
   </a>
   <a href="https://tailwindcss.com/" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
       alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://handlebarsjs.com/" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
       width="40"
       height="40"
     />
@@ -206,7 +206,7 @@ journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives,
   <a href="https://linkedin.com/in/ivanboothe" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
       alt="ivanboothe"
       height="30"
       width="40"
@@ -214,7 +214,7 @@ journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives,
   <a href="https://twitter.com/rootwork" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
       alt="rootwork"
       height="30"
       width="40"
@@ -222,15 +222,15 @@ journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives,
   <a href="https://codepen.io/rootwork" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"
       alt="rootwork"
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/rootwork" target="blank"
+  <a href="https://facebook.com/rootwork" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
       alt="rootwork"
       height="30"
       width="40"
@@ -247,16 +247,17 @@ journalist. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives,
 
 <p>
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rootwork&show_icons=true&locale=en&layout=compact"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=rootwork&show_icons=true&locale=en"
     alt="rootwork"
   />
 </p>
 
+
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=rootwork&show_icons=true&locale=en"
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rootwork&show_icons=true&locale=en&layout=compact"
     alt="rootwork"
   />
 </p>
