@@ -196,10 +196,13 @@ Go (having somewhat learned Go templating via Hugo), back-end Nodejs, Drupal 10.
 ## Coding is just a small part of who I am 💭
 
 Technology is a means to an end, and shiny tech is not always the best means.
+
 I've worked as a human rights advocate, a community organizer, and a journalist,
 and really all my technological expertise and interest stems from those larger
-objectives. I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives, and
-🔔 semi-professional handbell performance
+objectives.
+
+I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives, and 🔔
+semi-professional handbell performance
 ([really](https://www.bellsofthecascades.org/about)).
 
 ## Connect with me 📟
