@@ -55,8 +55,9 @@
   data files, with CSS and without JS.
 - **[Radical Icons](https://gitlab.com/radicons/radicons)**, reusable SVG and
   PNG images for activist art and organizing.
-- I've also been active in **Drupal** (especially nonprofit-tech Drupal)
-  since 2005. **[Find me at drupal.org.](https://www.drupal.org/u/rootwork)**
+- I've also been active in **Drupal** (especially nonprofit and
+  community-oriented Drupal) since 2005.
+  **[Find me at drupal.org.](https://www.drupal.org/u/rootwork)**
 
 ## 💁 Ask me about
 
@@ -74,7 +75,7 @@
 - [Hugo](https://gohugo.io/)
 
 Also intermediately experienced with bash scripting (and
-[zsh](https://www.zsh.org/)), [Tailwinds CSS](https://tailwindcss.com/), SVGs
+[zsh](https://www.zsh.org/)), [Tailwind CSS](https://tailwindcss.com/), SVGs
 and animation, [Composer](https://getcomposer.org/), [CiviCRM](https://civicrm.org/), and using Linux in day-to-day
 work and development.
 
@@ -148,7 +149,7 @@ work and development.
   </a>
   <a href="https://tailwindcss.com/" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
       alt="tailwind"
       width="40"
       height="40"
