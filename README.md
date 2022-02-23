@@ -11,7 +11,7 @@
 - **[rootwork/bash-scripts](https://github.com/rootwork/bash-scripts)**, helpful tools for image management, video manipulation, and image/video conversion.
 - **[Responsive Tables Builder](https://github.com/rootwork/responsive-tables-builder)** (in progress), a tool for creating mobile-first, accessible, responsive HTML data tables from data files, with CSS and without JS.
 - **[Radical Icons](https://gitlab.com/radicons/radicons)**, reusable SVG and PNG images for activist art and organizing.
-- I've also been active in Drupal (especially nonprofit-tech Drupal) since 2005. [You can find me over at drupal.org](https://www.drupal.org/u/rootwork)
+- I've also been active in **Drupal** (especially nonprofit-tech Drupal) since 2005. [You can find me over at drupal.org](https://www.drupal.org/u/rootwork)
 
 ## 💁 Ask me about
 
