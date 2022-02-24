@@ -66,7 +66,7 @@
 - [accessibility](https://www.a11yproject.com/) (a11y) and
   [universal design](https://universaldesign.ie/What-is-Universal-Design/The-7-Principles/)
   (also sometimes called inclusive design)
-- [MJML](https://mjml.io/)
+- [MJML](https://mjml.io/) and email coding generally
 - [Handlebars](https://handlebarsjs.com/)
 - [Sass](https://sass-lang.com/) and modern CSS
 - [Gulp 4](https://gulpjs.com/)
@@ -74,12 +74,13 @@
   Nodejs
 - [Hugo](https://gohugo.io/)
 
-Also intermediately experienced with bash scripting (and
-[zsh](https://www.zsh.org/)), [Tailwind CSS](https://tailwindcss.com/), SVGs
-and animation, [Composer](https://getcomposer.org/), [CiviCRM](https://civicrm.org/), and using Linux in day-to-day
-work and development.
+Also moderately experienced with bash scripting (and
+[zsh](https://www.zsh.org/)), [Tailwind CSS](https://tailwindcss.com/), SVGs and
+animation, [Composer](https://getcomposer.org/),
+[CiviCRM](https://civicrm.org/), and using Linux in day-to-day work and
+development.
 
-<p align="left">
+<p align="center">
   <a href="https://www.drupal.org/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain-wordmark.svg"
@@ -189,7 +190,7 @@ work and development.
   </a>
 </p>
 
-## Learning 💗
+## I'm currently learning 💗
 
 Go (having somewhat learned Go templating via Hugo), back-end Nodejs, Drupal 10.
 
@@ -201,9 +202,9 @@ I've worked as a human rights advocate, a community organizer, and a journalist,
 and really all my technological expertise and interest stems from those larger
 objectives.
 
-I'm active in 🚲 re-thinking urban spaces, 🥕 food cooperatives, and 🔔
-semi-professional handbell performance
-([really](https://www.bellsofthecascades.org/about)).
+I'm active in 🚲 [re-thinking urban spaces](https://www.streetsblog.org/), 🥕
+[food cooperatives](https://www.peoples.coop/), and 🔔
+[semi-professional handbell performance](https://www.bellsofthecascades.org/about).
 
 ## Connect with me 📟
 
@@ -250,10 +251,18 @@ semi-professional handbell performance
   /></a>
 </p>
 
+## Stats
+
+Leaderboards are harmful to open-source development and sustainable communities
+generally (read Cory Doctorow's
+[_Walkaway_](https://www.worldcat.org/title/walkaway-a-novel/oclc/1159178249&referer=brief_results))
+but so far as some folks feel they need impersonal metrics of comparison, here
+are mine:
+
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=rootwork&show_icons=true&locale=en"
-    alt="rootwork"
+    src="https://github-readme-stats.vercel.app/api?username=rootwork&custom_title=This+means+nothing:+Ivan+Boothe+%40rootwork+on+GitHub&show_icons=true&locale=en&count_private=true&theme=radical&title_color=eeeeee&text_color=eeeeee&icon_color=eeeeee&hide_border=true&border_radius=25&bg_color=30,312E81,881337,1E3A8A"
+    alt="GitHub stats"
   />
 </p>
