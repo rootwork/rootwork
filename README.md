@@ -4,8 +4,8 @@
 
 <h1 align="center">Holy 🦎s and 🦄s, it's Ivan Boothe</h1>
 <div align="center">
-  <strong
-    >🇺🇸 US-Pacific 🌎 Multnomah, Tsinook & Cowlitz lands 🌹 Portland, OR</strong
+  <strong>
+    US-Pacific ☙ Multnomah, Tsinook & Cowlitz lands ☙ Portland, OR</strong
   >
 </div>
 <h3 align="center">
@@ -39,7 +39,7 @@
 
 ---
 
-## Current projects 👷
+## Current projects
 
 - **[Premail](https://premail.dev)**, an easy-to-use component-based build
   system for MJML, the email templating language, with Handlebars templating,
@@ -59,7 +59,7 @@
   community-oriented Drupal) since 2005.
   **[Find me at drupal.org.](https://www.drupal.org/u/rootwork)**
 
-## Ask me about 💁
+## Ask me about
 
 - [Drupal (4.5 to 9)](https://www.drupal.org/)
 - [nptech](https://www.nten.org/) (nonprofit/NGO tech)
@@ -85,48 +85,48 @@ development.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain-wordmark.svg"
       alt="Drupal"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://nodejs.org" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://gulpjs.com" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
       alt="gulp"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://sass-lang.com" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://www.w3.org/Style/CSS/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a
@@ -136,65 +136,65 @@ development.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://gohugo.io/" rel="noreferrer">
     <img
       src="https://api.iconify.design/logos-hugo.svg"
       alt="hugo"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://tailwindcss.com/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
       alt="tailwind"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://handlebarsjs.com/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg"
       alt="bash"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://www.gnu.org/software/bash/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
       alt="bash"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://git-scm.com/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
       alt="git"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://www.linux.org/" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
-      width="50"
-      height="50"
+      width="35"
+      height="35"
     />
   </a>
 </p>
 
-## I'm currently learning 💗
+## I'm currently learning
 
 Go (having somewhat learned Go templating via Hugo), back-end Nodejs, Drupal 10.
 
-## Coding is just a small part of who I am 💭
+## Coding is just a small part of who I am
 
 Technology is a means to an end, and shiny tech is not always the best means.
 
