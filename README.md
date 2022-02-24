@@ -198,12 +198,23 @@ Go (having somewhat learned Go templating via Hugo), back-end Nodejs, Drupal 10.
 
 Technology is a means to an end, and shiny tech is not always the best means.
 
-I've worked as a human rights advocate, a community organizer, and a journalist,
-and really all my technological expertise and interest stems from those larger
-objectives.
+I've worked as a
+[human rights advocate](https://web.archive.org/web/20080131080116/http://www.genocideintervention.net/),
+a
+[community organizer](https://web.archive.org/web/20111226083543/http://www.casinofreephilly.org:80/),
+and a [nonprofit communications manager](https://forusa.org/). I've been on the
+board of a [justice studies association](https://www.peacejusticestudies.org/),
+helped
+[nominate people for the Nobel Peace Prize](https://www.afsc.org/content/afsc-and-nobel-peace-prize),
+[wrote about third-party nonviolent intervention](https://works.swarthmore.edu/fac-soc-anth/29/)
+and used
+[electronic civil disobedience to fight insecure voting systems](https://web.archive.org/web/20050204141450/https://www.why-war.com/features/2003/11/diebold_analyzed.html).
 
-I'm active in 🚲 [re-thinking urban spaces](https://www.streetsblog.org/), 🥕
-[food cooperatives](https://www.peoples.coop/), and 🔔
+Really all my technological expertise and interest stems from those larger
+objectives for social change.
+
+I'm also active in 🚲 [re-thinking urban spaces](https://www.streetsblog.org/),
+🥕 [local food cooperatives](https://www.peoples.coop/), and 🔔
 [semi-professional handbell performance](https://www.bellsofthecascades.org/about).
 
 ## Connect with me 📟
