@@ -1,0 +1,23 @@
+{
+  "name": "rootwork",
+  "version": "1.0.0",
+  "description": "Public profile of Ivan Boothe @rootwork",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier -w .",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootwork/rootwork.git"
+  },
+  "author": "Ivan Boothe <npm@rootwork.org> (https://rootwork.org/)",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://github.com/rootwork/rootwork#readme",
+  "dependencies": {
+    "husky": "^7.0.4",
+    "prettier": "^2.5.1",
+    "pretty-quick": "^3.1.3"
+  }
+}
