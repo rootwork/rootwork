@@ -268,7 +268,7 @@ I'm also active in 🚲 [re-thinking urban spaces](https://www.streetsblog.org/)
 Leaderboards are harmful to open-source development and sustainable communities
 generally (read Cory Doctorow's
 [_Walkaway_](https://www.worldcat.org/title/walkaway-a-novel/oclc/1159178249&referer=brief_results))
-but so far as some folks feel they need impersonal metrics of comparison, here
+but insofar as some folks feel they need impersonal metrics of comparison, here
 are mine:
 
 <p>
