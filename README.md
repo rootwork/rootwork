@@ -206,7 +206,8 @@ and a [nonprofit communications manager](https://forusa.org/). I've been on the
 board of a [justice studies association](https://www.peacejusticestudies.org/),
 helped
 [nominate people for the Nobel Peace Prize](https://www.afsc.org/content/afsc-and-nobel-peace-prize),
-[wrote about third-party nonviolent intervention](https://works.swarthmore.edu/fac-soc-anth/29/)
+wrote about
+[third-party nonviolent intervention](https://works.swarthmore.edu/fac-soc-anth/29/)
 and used
 [electronic civil disobedience to fight insecure voting systems](https://web.archive.org/web/20050204141450/https://www.why-war.com/features/2003/11/diebold_analyzed.html).
 
