@@ -46,7 +46,7 @@
     /></a>
   </p>
 
-  <p><a href="https://github.com/rootwork/rootwork/issues/new"><strong>📟 Contact me here.</strong></a></p>
+  <h3><a href="https://github.com/rootwork/rootwork/issues/new"><strong>📟 Contact me here.</strong></a></h3>
 
   <hr />
 
