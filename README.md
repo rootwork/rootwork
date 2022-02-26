@@ -24,6 +24,11 @@
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn: Ivan Boothe"
     /></a>
+    <a href="https://codepen.io/rootwork/"
+      ><img
+        src="https://img.shields.io/badge/CodePen-blue?style=for-the-badge&logo=codepen&logoColor=white"
+        alt="CodePen: @rootwork"
+    /></a>
     <a href="https://twitter.com/rootwork"
       ><img
         src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
@@ -40,6 +45,8 @@
         alt="GitLab: @rootwork"
     /></a>
   </p>
+
+  <p><a href="https://github.com/rootwork/rootwork/issues/new"><strong>Contact me here.</strong></a></p>
 
   <hr />
 
