@@ -1,43 +1,49 @@
-<h3 align="center"><img src="https://raw.githubusercontent.com/rootwork/rootwork/main/images/Quasar-Pride-Progress.svg" height="18" width="auto" align="texttop" alt="Progress Pride flag by Daniel Quasar" /> Black Lives Matter ✊🏽 Trans Rights Are Human Rights ⛺ Houseless Neighbors Deserve Dignity</h2>
-
----
-
-<h1 align="center">Holy 🦎s and 🦄s, it's Ivan Boothe</h1>
 <div align="center">
-  <strong>
-    US-Pacific ☙ Multnomah, Tsinook & Cowlitz lands ☙ Portland, OR</strong
-  >
+
+  <h3><img src="https://gitlab.com/rootwork/rootwork/-/raw/main/images/Quasar-Pride-Progress.svg" height="18" width="auto" align="texttop" alt="Progress Pride flag by Daniel Quasar" /> Black Lives Matter ✊🏽 Trans Rights Are Human Rights ⛺ Houseless Neighbors Deserve Dignity</h3>
+
+  <hr />
+
+  <h1>Holy 🦎s and 🦄s, it's Ivan Boothe</h1>
+  <p>
+    <strong>
+      US-Pacific ☙ Multnomah, Tsinook & Cowlitz lands ☙ Portland, OR</strong
+    >
+  </p>
+  <h3>
+    <strong
+      >I'm into frontend engineering (especially back-of-the-frontend), creative
+      social protest and radical nonviolent praxis. These things go together more
+      than you think.</strong
+    >
+  </h3>
+
+  <p>
+    <a href="https://gitlab.com/rootwork"
+      ><img
+        src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=white"
+        alt="GitLab: @rootwork"
+    /></a>
+    <a href="https://www.linkedin.com/in/ivanboothe"
+      ><img
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn: Ivan Boothe"
+    /></a>
+    <a href="https://twitter.com/rootwork"
+      ><img
+        src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Twitter: @rootwork"
+    /></a>
+    <a href="https://www.drupal.org/u/rootwork"
+      ><img
+        src="https://img.shields.io/badge/Drupal-blue?style=for-the-badge&logo=drupal&logoColor=white"
+        alt="Drupal: @rootwork"
+    /></a>
+  </p>
+
+  <hr />
+
 </div>
-<h3 align="center">
-  <strong
-    >I'm into frontend engineering (especially back-of-the-frontend), creative
-    social protest and radical nonviolent praxis. These things go together more
-    than you think.</strong
-  >
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ivanboothe"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn: Ivan Boothe"
-  /></a>
-  <a href="https://twitter.com/rootwork"
-    ><img
-      src="https://img.shields.io/twitter/follow/rootwork?logo=twitter&style=for-the-badge"
-      alt="Twitter: @rootwork"
-  /></a>
-  <a href="https://gitlab.com/rootwork"
-    ><img
-      src="https://img.shields.io/static/v1?style=for-the-badge&label=GitLab&message=rootwork&color=orange"
-  /></a>
-  <a href="https://www.drupal.org/u/rootwork"
-    ><img
-      src="https://img.shields.io/static/v1?style=for-the-badge&label=Drupal&message=rootwork&color=blue"
-  /></a>
-</p>
-
----
 
 ## Current projects
 
