@@ -19,11 +19,6 @@
   </h3>
 
   <p>
-    <a href="https://gitlab.com/rootwork"
-      ><img
-        src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=white"
-        alt="GitLab: @rootwork"
-    /></a>
     <a href="https://www.linkedin.com/in/ivanboothe"
       ><img
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -38,6 +33,11 @@
       ><img
         src="https://img.shields.io/badge/Drupal-blue?style=for-the-badge&logo=drupal&logoColor=white"
         alt="Drupal: @rootwork"
+    /></a>
+    <a href="https://gitlab.com/rootwork"
+      ><img
+        src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=white"
+        alt="GitLab: @rootwork"
     /></a>
   </p>
 
